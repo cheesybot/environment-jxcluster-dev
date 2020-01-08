@@ -1,0 +1,10 @@
+adminUser:
+  password: vault:jxcluster/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: bot@cheesy.dev
+  token: vault:jxcluster/pipelineUser:token
+  username: cheesybot
+prow:
+  hmacToken: vault:jxcluster/prow:hmacToken
