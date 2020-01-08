@@ -5,3 +5,9 @@ dependencies:
   url: https://github.com/cheesydev/jx-quickstart-app.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: cheesydev
+  repo: jx-quickstart-app2
+  url: https://github.com/cheesydev/jx-quickstart-app2.git
+  version: ""
+  versionURL: ""
