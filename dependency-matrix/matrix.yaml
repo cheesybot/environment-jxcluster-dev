@@ -11,3 +11,9 @@ dependencies:
   url: https://github.com/cheesydev/jx-quickstart-app2.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: cs-marek-ruszczyk
+  repo: jx-java-example-app
+  url: https://github.com/cs-marek-ruszczyk/jx-java-example-app.git
+  version: ""
+  versionURL: ""

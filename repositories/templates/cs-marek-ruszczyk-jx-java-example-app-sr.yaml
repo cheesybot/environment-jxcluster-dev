@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: cs-marek-ruszczyk
+    provider: github
+    repository: jx-java-example-app
+  name: cs-marek-ruszczyk-jx-java-example-app
+spec:
+  description: Imported application for cs-marek-ruszczyk/jx-java-example-app
+  httpCloneURL: https://github.com/cs-marek-ruszczyk/jx-java-example-app.git
+  org: cs-marek-ruszczyk
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: jx-java-example-app
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/cs-marek-ruszczyk/jx-java-example-app.git
