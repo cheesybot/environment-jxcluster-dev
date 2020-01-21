@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: cs-marek-ruszczyk
+    provider: github
+    repository: import-app-test
+  name: cs-marek-ruszczyk-import-app-test
+spec:
+  description: Imported application for cs-marek-ruszczyk/import-app-test
+  httpCloneURL: https://github.com/cs-marek-ruszczyk/import-app-test.git
+  org: cs-marek-ruszczyk
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: import-app-test
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/cs-marek-ruszczyk/import-app-test.git

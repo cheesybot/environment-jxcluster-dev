@@ -17,3 +17,9 @@ dependencies:
   url: https://github.com/cs-marek-ruszczyk/jx-java-example-app.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: cs-marek-ruszczyk
+  repo: import-app-test
+  url: https://github.com/cs-marek-ruszczyk/import-app-test.git
+  version: ""
+  versionURL: ""
