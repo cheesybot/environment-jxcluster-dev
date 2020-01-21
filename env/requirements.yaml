@@ -3,6 +3,9 @@ dependencies:
   condition: bucketrepo.enabled
   name: bucketrepo
   repository: http://chartmuseum.jenkins-x.io
+- name: import-app-test
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.7
 - name: jenkins-x-platform
   repository: http://chartmuseum.jenkins-x.io
 - name: jx-app-ui
